@@ -1,0 +1,108 @@
+body{
+    font-family: "Montserrat";
+}
+h1 {  font-family: 'Montserrat, sans-serif';  
+    font-size: 3rem;  line-height: 1.5;  
+    font-weight: 900;  
+    color: aliceblue;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#title{
+    background-color: #ff4c68;
+}
+.navbar-brand{
+    font-family: "ubantu";
+    font-size: 50px;
+  
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.heading{
+    margin-top: 75px;
+    font-size: 75px;
+}
+.img{
+    width: 20%;
+    margin-top: 75px;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 20%;
+    top: 30%;
+}
+.navbar-nav{
+    padding-right:20px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Montserrat-Light";
+    padding: 20px 25px;
+    margin: auto 20px;
+}
+.btn{
+    margin:5% 3% 5% 0;
+}
+#features{
+    padding: 7% 15%;
+}
+.text{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(102, 116, 116);
+}
+.i1{
+    font-size: 50px;
+    color: #ef8171;
+    margin-bottom: 1rem;
+}
+.i1:hover{
+    color:  #ff4c68;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color:   #ef8171;
+    color: #fff;
+}
+.testimonial-image{
+    width: 10%  ;   
+    margin: 20px;
+    border-radius: 100%;
+}
+#press{
+    background-color: #ef8171;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.press-image{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-col{
+    padding: 3% 2%;
+}
+#features{
+    margin-top: 0px;
+    background-color: #fff;   
+    position: relative;
+    top: 20%;
+    z-index: 1;
+}
+
